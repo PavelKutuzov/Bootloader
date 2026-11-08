@@ -379,4 +379,7 @@ $RECYCLE.BIN/
 artifacts/*
 !artifacts/.gitkeep
 
+# vscode
+.vscode
+
 
