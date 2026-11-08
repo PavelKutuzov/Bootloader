@@ -1,0 +1,7 @@
+
+[submodule "codebase/main_fw/HAL/stm32f1xx-hal"]
+	path = codebase/main_fw/HAL/stm32f1xx-hal
+	url = https://github.com/STMicroelectronics/stm32f1xx-hal-driver.git
+[submodule "codebase/main_fw/HAL/Devices"]
+	path = codebase/main_fw/HAL/Devices
+	url = https://github.com/STMicroelectronics/cmsis-device-f1.git
